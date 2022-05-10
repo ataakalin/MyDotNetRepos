@@ -1,2 +1,1 @@
-# MyDotNetRepos
-My .Net Repositories (LC Waikiki Bootcamp)
+## Hafta 3 Ödevi Sql Scripti
